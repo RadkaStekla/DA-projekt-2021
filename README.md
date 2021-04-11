@@ -1,4 +1,4 @@
-# Toto je moje testovaci slozka
+# Projekt v ramci DA Czechitas
 
 Slozka slouzi k otestování práce s gitem.
 
